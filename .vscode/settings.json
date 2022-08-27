@@ -1,0 +1,6 @@
+{
+  "cSpell.words": ["headfirstgo"],
+  "go.toolsEnvVars": {
+    "GO111MODULE": "on"
+  }
+}
